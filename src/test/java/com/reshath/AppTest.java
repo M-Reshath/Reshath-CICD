@@ -8,6 +8,6 @@ public class AppTest {
     @Test
     public void testGetGreeting() {
         String result = App.getGreeting();
-        assertEquals("Hello from Reshath's CI/CD pipeline!", result);
+        assertEquals("Hi there!", result);
     }
 }
