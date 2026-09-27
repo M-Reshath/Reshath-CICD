@@ -3,7 +3,7 @@ package com.reshath;
 public class App {
 
     public static String getGreeting() {
-        return "Hello from Reshath's CI/CD pipeline!";
+        return "Hi there!";
     }
 
     public static void main(String[] args) {
